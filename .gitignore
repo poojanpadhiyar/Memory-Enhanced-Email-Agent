@@ -1,0 +1,6 @@
+# Sensitive files
+credentials.json
+token.json
+.env
+myenv/
+__pycache__/
